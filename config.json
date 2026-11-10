@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a task management REST API using FastAPI, HTTP methods, data validation, and status codes.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
